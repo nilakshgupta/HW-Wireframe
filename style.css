@@ -1,7 +1,7 @@
 *
 {
 	text-align: center;
-	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-size: 18px
 
 }
@@ -16,6 +16,15 @@ header,nav,footer
 	background: #ebebeb;
 	margin:25px;
 	padding:20px;
+
+}
+nav
+{
+	margin-top:-15px;
+}
+footer
+{
+	clear:left;
 
 }
 section
@@ -33,7 +42,7 @@ article
 	margin:25px;
 	padding:20px;
 }
-h3
+h1
 {
 	width:70%;
 	background: #ebebeb;
@@ -59,8 +68,8 @@ aside
 	margin:25px;
 	padding:20px;
 	position:relative;
-	top:-390px;
-	left:280px;
+	top:-583px;
+	left:450px;
 	float:right;
 }
 .align
